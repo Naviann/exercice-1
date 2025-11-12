@@ -4,5 +4,6 @@
        <p> v_1: A first repository, readme and licence was set up.</p>
        <p> v_2 : The readme file was updated with the version updates in html.</p>
        <p> v_3: Changes with git add added </p>
+       <p> v_4: Added a code with C (tested, the if, else and while doesn't work well) </p>
                                                                                 
 <p>-- <i> Andrea </i> -- </p>
